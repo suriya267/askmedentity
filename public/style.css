@@ -50,7 +50,7 @@
 }
 
 .bakground-container {
-  height: 100%;
+  height: fit-content;
   background-image: url(./images/backgroundImg.svg);
   width: 100%;
   background-size: cover;
@@ -114,6 +114,7 @@
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
+  height: fit-content;
 }
 
 .why-learn-container {
