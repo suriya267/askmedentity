@@ -148,6 +148,22 @@ input:focus {
   transform: translate(-50%, -50%);
 }
 
-.play-bg{
-  background: linear-gradient(90deg, #7F56D9, #21B573);
+.play-bg {
+  background: linear-gradient(90deg, #7f56d9, #21b573);
+}
+
+.shadow {
+  box-shadow: 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.rotate-arrow {
+  transform: rotate(180deg);
+}
+
+.btm-container {
+  background: linear-gradient(90deg, rgba(147, 27, 189, 0.86), #477ae3);
+}
+
+.btm-container-inner-1 {
+  background: rgba(97, 75, 198, 0.5);
 }
